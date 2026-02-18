@@ -16,9 +16,13 @@ This repository implements a computational framework for evaluating the theoreti
     - `compute_IR.py`  IR modes for single molecule
     - `batch_compute_ir.py` Batch IR calculation
     - `Lorentzian_broadening.py` Continuous spectra generation
+- `models` files with best models 
+    - `ir_cnn.keras` 
+    - `ir_cnn_noise.keras`
 - `ML_based_on_spectra_with_noise.ipynb`
 - `ML_based_on_spectra_without_noise_and_alr_regime.ipynb`
 - `requirements.txt`
+- `comparison_of_spectra.ipynb` Notebook for comparison IR spectra in gas and condensed phase 
 - `README.md`
 
  ### Install Dependencies
