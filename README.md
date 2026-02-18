@@ -20,6 +20,11 @@ This repository implements a computational framework for evaluating the theoreti
 - `ML_based_on_spectra_without_noise_and_alr_regime.ipynb`
 - `requirements.txt`
 - `README.md`
+
+ ### Install Dependencies
+ ```
+ pip install -r requirements.txt
+```
   ##  Data Generation Pipeline
 
 ### Step 1: Generate Molecules
