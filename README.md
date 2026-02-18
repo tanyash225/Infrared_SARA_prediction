@@ -67,12 +67,14 @@ Trains ML model on IR spectra with added noise (simulates real-world conditions)
 # Run the notebook locally 
 ML_based_on_spectra_with_noise.ipynb
 ```
-Without 2: Without Noise and ALR Regime
+Type 2: Without Noise and ALR Regime
 **File:** `ML_based_on_spectra_without_noise_and_alr_regime.ipynb`
 Trains ML model on clean spectra and model with Additive Log-Ratio (ALR) transformation 
 ```python
 # Run the notebook locally 
 ML_based_on_spectra_without_noise_and_alr_regime.ipynb
 ```
+
+
 
 
